@@ -1,11 +1,18 @@
 # Scratch
 
-This project is a bare-bones project that is a good way
-to use **guard-shell** to watch changes on ruby files and
-runs them.
+This project is a bare-bones project that lets you write
+and play with Ruby quickly and easily.
 
-This is useful when exploring concepts in ruby when the
-code is much more complicated than a single irb session.
+1. bundle install
+2. touch playingaround.rb
+3. $EDITOR playingaround.rb
+4. guard
+
+Guard will watch for any ruby files that are in the directory
+and automatically run them. Allowing you to have a similar 
+experience to IRB but with your editor. This is useful when 
+exploring concepts in ruby when the code is much more 
+complicated than a single irb session.
 
 ## Getting Started
 
