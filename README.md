@@ -1,4 +1,4 @@
-# Scratch
+# Scratch (that whip)
 
 This project is a bare-bones project that lets you write
 and play with Ruby quickly and easily.
